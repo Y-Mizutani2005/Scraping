@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Scraping-Gmail
 =======
 # Scraping-Mail
@@ -63,4 +63,3 @@ python main.py
 Environment：python3
 (It has been tested in a mac environment.)
 <p>License:MITLICENSE</p>
->>>>>>> be1c2b9f69b749e1a47cc615ee7f2158acc2f53e
